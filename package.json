@@ -7,7 +7,7 @@
 		"start": "next start"
 	},
 	"dependencies": {
-		"@kubernetes/client-node": "^0.22.3",
+		"@kubernetes/client-node": "^1.0.0",
 		"@octokit/rest": "^21.0.2",
 		"next": "15.1.0",
 		"react": "^19.0.0",
